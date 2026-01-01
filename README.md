@@ -1,7 +1,7 @@
 # nebil ibrahim
-Machine Learning and AI Data Science
-Data Engineering
-Cloud Engineering
+Machine Learning and AI Data Science |
+Data Engineering |
+Cloud Engineering |
 Software Engineering
 
 ---
